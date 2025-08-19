@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨‍💻 Olá, eu sou [Seu Nome]  
 
-<!--
-**marcosrsp/marcosrsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💡 Apaixonado por **tecnologia, aprendizado contínuo e desafios**  
+🛠️ Experiência prática em **montagem e manutenção de computadores e redes**  
+🌱 Atualmente focado em **suporte, infraestrutura e desenvolvimento de sistemas**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+Sou uma pessoa curiosa, comprometida e sempre em busca de evolução.  
+Acredito no poder da **tecnologia como agente de transformação** e quero contribuir com soluções que façam a diferença.  
+
+---
+
+## 🧰 Tecnologias e Ferramentas   
+- ⚙️ **Infraestrutura:** Redes, Hardware, Manutenção de PCs  
+- 🌐 **Aprendizado Contínuo:** Suporte, Infra e Desenvolvimento  
+
+---
+
+## 📫 Como me encontrar  
+- ✉️ [bethin_@hotmail.com]  
+- 💼 [LinkedIn](www.linkedin.com/in/marcosrobertosantanapereira)  
+   
+
+---
+✨ _"A tecnologia pode transformar realidades — e eu quero fazer parte dessa transformação."_ ✨
