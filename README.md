@@ -21,7 +21,7 @@ Acredito no poder da **tecnologia como agente de transformação** e quero contr
 
 ## 📫 Como me encontrar  
 - ✉️ [bethin_@hotmail.com]  
-- 💼 [LinkedIn](www.linkedin.com/in/marcosrobertosantanapereira)  
+- 💼 [LinkedIn](www.linkedin.com/in/marcosrsp)  
    
 
 ---
